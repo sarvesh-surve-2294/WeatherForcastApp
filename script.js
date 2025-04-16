@@ -85,11 +85,6 @@ function displayWeatherInfo(data) {
     card.appendChild(weatherEmoji);
 
 
-
-
-
-
-
 }
 
 
